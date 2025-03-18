@@ -1,0 +1,75 @@
+[submodule "PortSwigger_BChecks"]
+	path = PortSwigger_BChecks
+	url = https://github.com/PortSwigger/BChecks
+[submodule "NetSPIWillD_BChecks"]
+	path = NetSPIWillD_BChecks
+	url = https://github.com/NetSPIWillD/BChecks
+[submodule "lisandre-com_BChecks"]
+	path = lisandre-com_BChecks
+	url = https://github.com/lisandre-com/BChecks
+[submodule "beishanxueyuan_BChecks"]
+	path = beishanxueyuan_BChecks
+	url = https://github.com/beishanxueyuan/BChecks
+[submodule "nullfuzz-pentest_bchecks-templates"]
+	path = nullfuzz-pentest_bchecks-templates
+	url = https://github.com/nullfuzz-pentest/bchecks-templates
+[submodule "cyberK9_BChecksFTW"]
+	path = cyberK9_BChecksFTW
+	url = https://github.com/cyberK9/BChecksFTW
+[submodule "IAmRoot0_BCheck-Rules"]
+	path = IAmRoot0_BCheck-Rules
+	url = https://github.com/IAmRoot0/BCheck-Rules
+[submodule "0xm4v3rick_Burp-BChecks"]
+	path = 0xm4v3rick_Burp-BChecks
+	url = https://github.com/0xm4v3rick/Burp-BChecks
+[submodule "buggysolid_bchecks"]
+	path = buggysolid_bchecks
+	url = https://github.com/buggysolid/bchecks
+[submodule "vrechson_copy-to-bcheck"]
+	path = vrechson_copy-to-bcheck
+	url = https://github.com/vrechson/copy-to-bcheck
+[submodule "MrW0l05zyn_bchecks"]
+	path = MrW0l05zyn_bchecks
+	url = https://github.com/MrW0l05zyn/bchecks
+[submodule "Hannah-PortSwigger_SaveBchecksToFile"]
+	path = Hannah-PortSwigger_SaveBchecksToFile
+	url = https://github.com/Hannah-PortSwigger/SaveBchecksToFile
+[submodule "jimiss_bchecks"]
+	path = jimiss_bchecks
+	url = https://github.com/jimiss/bchecks
+[submodule "QdghJ_burpsuite-bchecks"]
+	path = QdghJ_burpsuite-bchecks
+	url = https://github.com/QdghJ/burpsuite-bchecks
+[submodule "yeswehack_BCheck-Burp-scripts"]
+	path = yeswehack_BCheck-Burp-scripts
+	url = https://github.com/yeswehack/BCheck-Burp-scripts
+[submodule "KaustubhRai_bchecks"]
+	path = KaustubhRai_bchecks
+	url = https://github.com/KaustubhRai/bchecks
+[submodule "nithisshs_Custom-Bchecks"]
+	path = nithisshs_Custom-Bchecks
+	url = https://github.com/nithisshs/Custom-Bchecks
+[submodule "vmnguyen_bcheck-collection"]
+	path = vmnguyen_bcheck-collection
+	url = https://github.com/vmnguyen/bcheck-collection
+[submodule "0x0msg_Bcheck_Collection"]
+	path = 0x0msg_Bcheck_Collection
+	url = https://github.com/0x0msg/Bcheck_Collection
+[submodule "j3ssie_custom-bcheck-scan"]
+	path = j3ssie_custom-bcheck-scan
+	url = https://github.com/j3ssie/custom-bcheck-scan
+[submodule "AliAhdy_Burp-Suite-BChecks---OWASP-ASVS-V4"]
+	path = AliAhdy_Burp-Suite-BChecks---OWASP-ASVS-V4
+	url = https://github.com/AliAhdy/Burp-Suite-BChecks---OWASP-ASVS-V4.0.3
+[submodule "BuffaloWill_BChecksPublic"]
+	path = BuffaloWill_BChecksPublic
+	url = https://github.com/BuffaloWill/BChecksPublic
+[submodule "kjeevesh_bchecks"]
+	path = kjeevesh_bchecks
+	url = https://github.com/kjeevesh/bchecks.git
+[submodule "10up_wp-bcheck"]
+	path = 10up_wp-bcheck
+	url = https://github.com/10up/wp-bcheck
+[submodule "kalhoralireza_morvarid-bcheck"]
+	path = kalhoralireza_morvarid-bcheck
+	url = https://github.com/kalhoralireza/morvarid-bcheck.git
